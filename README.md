@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm currently working on a simple, honest Pomodoro© timer called [Yet Another Pomodoro Timer](https://yapt.motevets.com).
+
+Best web sites on the Internet:
+* [https://🦆.to]
+* [https://shadyjakes.biz]
+
+
 <!--
 **motevets/motevets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

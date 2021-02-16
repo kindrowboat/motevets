@@ -3,7 +3,7 @@
 I'm currently working on a simple, honest Pomodoro© timer called [Yet Another Pomodoro Timer](https://yapt.motevets.com).
 
 Best web sites on the Internet:
-* [🦆.to](https://🦆.to)
+* [🦆.to](http://🦆.to)
 * [shadyjakes.biz](https://shadyjakes.biz)
 
 

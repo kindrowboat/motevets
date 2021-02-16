@@ -3,8 +3,8 @@
 I'm currently working on a simple, honest Pomodoro© timer called [Yet Another Pomodoro Timer](https://yapt.motevets.com).
 
 Best web sites on the Internet:
-* [https://🦆.to](🦆.to)
-* [https://shadyjakes.biz](shadyjakes.biz)
+* [🦆.to](https://🦆.to)
+* [shadyjakes.biz](https://shadyjakes.biz)
 
 
 <!--

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a simple, honest Pomodoro© timer called [Yet Another Pomodoro Timer](https://yapt.motevets.com).
+I am certainly not twelve cats in a trench coat.
 
 Best web sites on the Internet:
 * [🦆.to](http://🦆.to)

@@ -3,6 +3,8 @@
 I am certainly not twelve cats in a trench coat.
 
 Best web sites on the Internet:
+* [tilde.town/~kindrobot](https://tilde.town/~kindrobot)
+* [spring83.kindrobot.ca](https://spring83.kindrobot.ca)
 * [🦆.to](http://🦆.to)
 * [shadyjakes.biz](https://shadyjakes.biz)
 
